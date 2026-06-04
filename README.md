@@ -1,4 +1,4 @@
-# Hi there, I'm IDMan240! 👋
+# Hi there, I'm WHITEMAN! 👋
 
 I am a professional **Graphic Designer, Web Designer, and WordPress Developer**. I combine clean code with modern design principles to build seamless, high-converting digital experiences. 
 
