@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm IDMan240! 👋
 
-<!--
-**IDMan240/IDMan240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a professional **Graphic Designer, Web Designer, and WordPress Developer**. I combine clean code with modern design principles to build seamless, high-converting digital experiences. 
 
-Here are some ideas to get you started:
+- 🌍 Based in Nigeria (WAT)
+- 💼 Open to remote design and frontend web development roles
+- 🚀 Specialized in building custom responsive sites, landing pages, and web apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Skills
+
+**Design & UI/UX:**
+Figma | Canva | Adobe Photoshop | Graphic Design | Branding & Layouts
+
+**Web Development:**
+HTML5 | CSS3 | JavaScript | PHP | WordPress Development | Git & GitHub
+
+---
+
+### 📈 Projects & Work
+* **SwipeInterest** - A responsive web platform featuring custom authentication systems and advanced local storage integration.
+
+### 📫 Connect with me:
+[💼 LinkedIn](https://www.linkedin.com/in/white4man) | [📧 Email Me](mailto: hallwhiteman@gmail.com)
