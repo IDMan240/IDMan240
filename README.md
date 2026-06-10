@@ -22,4 +22,4 @@ HTML5 | CSS3 | JavaScript | PHP | WordPress Development | Git & GitHub
 * **SwipeInterest** - A responsive web platform featuring custom authentication systems and advanced local storage integration.
 
 ### 📫 Connect with me:
-[💼 LinkedIn](https://www.linkedin.com/in/white4man) | [📧 Email Me](mailto: hallwhiteman@gmail.com)
+[💼 LinkedIn](https://www.linkedin.com/in/white4man) | [📧 Email Me](mailto:hallwhiteman@gmail.com)
