@@ -11,7 +11,7 @@ I am a professional **Graphic Designer, Web Designer, and WordPress Developer**.
 ### 🛠️ Tech Stack & Skills
 
 **Design & UI/UX:**
-Figma | Canva | Adobe Photoshop | Graphic Design | Branding & Layouts
+Figma | Canva | Adobe Photoshop | Graphic Design | Branding & Layouts 
 
 **Web Development:**
 HTML5 | CSS3 | JavaScript | PHP | WordPress Development | Git & GitHub
