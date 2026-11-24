@@ -75,7 +75,7 @@ A business-focused application designed to support calibration management and re
 # 📫 LET'S CONNECT
 
 - [💼 LinkedIn](https://www.linkedin.com/in/white4man)
-- [📧 Email](hallwhiteman@gmail.com)
+- [📧 Email](mailto:hallwhiteman@gmail.com)
 - [🌐 Portfolio](https://hallwhiteman.page.gd/)
 - [💻 GitHub](https://github.com/IDMan240)
 
