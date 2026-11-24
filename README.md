@@ -1,25 +1,88 @@
-# Hi there, I'm WHITEMAN! 👋
+# Hi there, I'm WHITEMAN HALLELUYAH! 👋
 
-I am a professional **Graphic Designer, Web Designer, and WordPress Developer**. I combine clean code with modern design principles to build seamless, high-converting digital experiences. 
+Full-Stack Developer | Web & App Developer | Graphic Designer
 
-- 🌍 Based in Nigeria (WAT)
-- 💼 Open to remote design and frontend web development roles
-- 🚀 Specialized in building custom responsive sites, landing pages, and web apps
+I build digital experiences that move businesses forward.
 
----
+I'm a creative and technology-driven developer passionate about combining clean code, modern design, and practical problem-solving to create responsive websites, applications, and digital solutions.
 
-### 🛠️ Tech Stack & Skills
+🌍 Based in Nigeria | Open to worldwide opportunities
 
-**Design & UI/UX:**
-Figma | Canva | Adobe Photoshop | Graphic Design | Branding & Layouts 
+💼 Available for remote opportunities and freelance projects
 
-**Web Development:**
-HTML5 | CSS3 | JavaScript | PHP | WordPress Development | Git & GitHub
+🚀 Interested in building impactful digital products and solving real-world problems.
 
 ---
 
-### 📈 Projects & Work
-* **SwipeInterest** - A responsive web platform featuring custom authentication systems and advanced local storage integration.
+# 🛠️ TECH STACK & SKILLS
 
-### 📫 Connect with me:
-[💼 LinkedIn](https://www.linkedin.com/in/white4man) | [📧 Email Me](mailto:hallwhiteman@gmail.com)
+**Frontend Development**
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+
+**Backend Development**
+- PHP
+- Database Integration
+- Authentication Systems
+
+**Web & App Development**
+- WordPress Development
+- Web Applications
+- Application Development
+
+**Graphic Design & UI/UX**
+- Figma
+- Canva
+- Adobe Photoshop
+- Branding & Visual Design
+- UI/UX Design
+
+**Development Tools**
+- Git
+- GitHub
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+
+**SwipeInterest**
+A responsive web platform featuring custom authentication systems and advanced local storage integration.
+
+**SwipeHost**
+A web hosting platform project focused on hosting services and digital solutions.
+
+**SWIPE AI**
+An artificial intelligence learning and development project.
+
+**Calibration Management System**
+A business-focused application designed to support calibration management and record keeping.
+
+---
+
+# 🎯 WHAT I'M WORKING TOWARDS
+
+- Building modern full-stack web applications.
+- Developing practical mobile and web solutions.
+- Exploring artificial intelligence and emerging technologies.
+- Improving my cybersecurity knowledge.
+- Creating useful digital products for businesses and individuals.
+
+---
+
+# 📫 LET'S CONNECT
+
+- [💼 LinkedIn](https://www.linkedin.com/in/white4man)
+- [📧 Email](hallwhiteman@gmail.com)
+- [🌐 Portfolio](https://hallwhiteman.page.gd/)
+- [💻 GitHub](https://github.com/IDMan240)
+
+---
+
+~~~
+"I don't just build websites. I build digital experiences that create value."
+~~~
+
+⭐ Thanks for visiting my profile!
